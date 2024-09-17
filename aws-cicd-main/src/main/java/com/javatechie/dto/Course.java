@@ -13,6 +13,7 @@ public class Course {
     private String name;
     private double price;
     
+    
 	public int getId() {
 		return id;
 	}
